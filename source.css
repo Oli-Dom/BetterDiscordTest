@@ -3,7 +3,6 @@
 :root {
   --app-bg: #8B0000;
   --app-font: "Google Sans";
-  --app-bg: var(--main-alt);
   --accent-hue: 224;
   --accent-saturation: 71%;
   --accent-lightness: 61%;
